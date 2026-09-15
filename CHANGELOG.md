@@ -1,4 +1,10 @@
-## 1.0.0-dev.1 (2026-09-15)
+## [1.0.1](https://github.com/truongvantuan/morphe-patches-medium/compare/v1.0.0...v1.0.1) (2026-09-15)
+
+### 🐛 Bug Fixes
+
+* update patch source metadata to fix sync in Morphe Manager ([2597bab](https://github.com/truongvantuan/morphe-patches-medium/commit/2597bab25a93821227b76272976ce89244a89d19))
+
+## 1.0.0 (2026-09-15)
 
 ### 🐛 Bug Fixes
 
