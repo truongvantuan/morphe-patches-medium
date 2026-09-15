@@ -2,11 +2,11 @@ group = "app.bounce"
 
 patches {
     about {
-        name = "bufferk patches"
-        description = "bufferk patches"
-        author = "bufferk"
-        website = "https://github.com/bufferk/morphe-patches"
-        source = "git@github.com:bufferk/morphe-patches"
+        name = "truongvantuan patches"
+        description = "truongvantuan patches"
+        author = "truongvantuan"
+        website = "https://github.com/truongvantuan/morphe-patches-medium"
+        source = "git@github.com:truongvantuan/morphe-patches-medium.git"
         contact = ""
         license = "GPLv3"
     }
