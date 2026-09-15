@@ -80,7 +80,7 @@ public class ExamplePatch {
             public void onClick(View v) {
                 try {
                     // Get post ID via reflection
-                    Object bundleInfo = fragment.getClass().getMethod("p1").invoke(fragment);
+                    Object bundleInfo = fragment.getClass().getMethod("l1").invoke(fragment);
                     Object targetPost = bundleInfo.getClass().getMethod("getPost").invoke(bundleInfo);
                     String id = (String) targetPost.getClass().getMethod("getId").invoke(targetPost);
                     
